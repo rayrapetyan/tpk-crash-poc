@@ -1,3 +1,5 @@
-terraform init
-terraform plan
-terraform apply
+  terraform init
+  
+  terraform plan
+  
+  terraform apply
